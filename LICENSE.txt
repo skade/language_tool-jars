@@ -1,1 +1,1 @@
-SEE jars/COPYING.txt
+SEE jars/COPYING.txt and jars/third-party-licenses/
